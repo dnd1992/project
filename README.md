@@ -1,7 +1,7 @@
 Main:
 
 
-_file2_0-<a href="http://www.cubeblogstation.com/">cubeblogstation.com</a>
+_file2_0-project<a href="http://www.cubeblogstation.com/">cubeblogstation.com</a>
 _file0156
 
 * {
