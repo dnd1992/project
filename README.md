@@ -15,6 +15,7 @@ Files attachment
 <a href="http://www.cubeblogstation.com/p/blog-about-tech-reviews-and-more.html?m=1">Page02-file</a>
 
 <a href="http://www.cubeblogstation.com/p/about-page.html?m=1">Page03-file</a>
+
 Not applicable yet:
 <!DOCTYPE html>
 <html lang="en">
